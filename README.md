@@ -375,4 +375,3 @@ A: Currently uses binary crossentropy. For severe imbalance, try weighted loss o
 - ✅ Added proper error handling for data loading
 - ✅ Improved type hints and documentation
 
-See `CODE_REVIEW_FIXES.md` for detailed changelog.
