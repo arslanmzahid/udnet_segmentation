@@ -69,7 +69,6 @@ Segmenter/
 │   ├── metrics.py             # Custom metrics (Dice, IoU)
 │   ├── train.py               # Training script
 │   └── evaluation.py          # Model evaluation script
-└── CODE_REVIEW_FIXES.md       # Documentation of code fixes
 ```
 
 ---
